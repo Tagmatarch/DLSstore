@@ -3,4 +3,9 @@
 ---
 - Free Delivery
 - Money Back Guarantee
-- Senior Citizen Discount
+- Senior Citizen Discounts
+
+| Item | Price |
+|------|-------|
+| grapes | $1.99 |
+| apples | $0.90 |
