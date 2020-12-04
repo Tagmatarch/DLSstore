@@ -3,4 +3,4 @@
 ---
 - Free Delivery
 - Money Back Guarantee
-- Senior Citizen Discount
+- Senior Citizen Discounts
